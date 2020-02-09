@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a389fdb-8ce3-4a08-b204-55c6365e80f1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UqHSVV8yjheIDoNC3mij0qskmY" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hw10" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="expression" />
+      <recent name="Expression" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.3">
+    <configuration name="1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="expression.ExpressionTest" />
+      <module name="hw11" />
+      <option name="PROGRAM_PARAMETERS" value="hard" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="expression.DoubleExpressionTest" />
+      <module name="hw11" />
+      <option name="PROGRAM_PARAMETERS" value="hard" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="3" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="expression.TripleExpressionTest" />
+      <module name="hw11" />
+      <option name="PROGRAM_PARAMETERS" value="hard" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="expression.Main" />
+      <module name="hw11" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.1" />
+      <item itemvalue="Application.2" />
+      <item itemvalue="Application.3" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a389fdb-8ce3-4a08-b204-55c6365e80f1" name="Default Changelist" comment="" />
+      <created>1576077205128</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576077205128</updated>
+      <workItem from="1576077211305" duration="4756000" />
+      <workItem from="1576104065265" duration="10786000" />
+      <workItem from="1576231074841" duration="6832000" />
+      <workItem from="1576530988445" duration="731000" />
+      <workItem from="1576697741637" duration="15061000" />
+      <workItem from="1577223730991" duration="41000" />
+      <workItem from="1579266273403" duration="546000" />
+      <workItem from="1581251195372" duration="64000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
